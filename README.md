@@ -122,12 +122,16 @@ void loop() {
   
   Can be enhanced with GPS or Bluetooth for advanced tracking
 
+---
+
 📚 References
   IJCRT Smart Shoe Paper
   
   ResearchGate Article
   
   YouTube Demo
+
+---
 
 👩‍💻 Credits
   Project by:
