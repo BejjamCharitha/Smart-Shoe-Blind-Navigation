@@ -109,32 +109,34 @@ void loop() {
 
   delay(500);
 }
+```
 
 ✅ Advantages
   Easy to use and low maintenance
-
+  
   Reduces chances of collision for visually impaired individuals
-
+  
   Compact and lightweight design
-
+  
   Cost-effective solution
-
+  
   Can be enhanced with GPS or Bluetooth for advanced tracking
 
 📚 References
   IJCRT Smart Shoe Paper
-
+  
   ResearchGate Article
-
+  
   YouTube Demo
 
 👩‍💻 Credits
-Project by:
-🧑‍🎓 BEJJAM CHARITHA (22BQ1A4710)
-Department of CSE (IoT, Cybersecurity including Blockchain Technology)
-Vasireddy Venkatadri Institute of Technology (VVIT), Guntur
+  Project by:
+  🧑‍🎓 BEJJAM CHARITHA (22BQ1A4710)
+  Department of CSE (IoT, Cybersecurity including Blockchain Technology)
+  Vasireddy Venkatadri Institute of Technology (VVIT), Guntur
+  
+  Guided by:
+  👨‍🏫 Mr. K. Ravi Kumar, Associate Professor
 
-Guided by:
-👨‍🏫 Mr. K. Ravi Kumar, Associate Professor
 
 
