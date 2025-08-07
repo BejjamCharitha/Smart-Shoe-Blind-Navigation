@@ -111,7 +111,10 @@ void loop() {
 }
 ```
 
+---
+
 ✅ Advantages
+
   Easy to use and low maintenance
   
   Reduces chances of collision for visually impaired individuals
@@ -125,6 +128,7 @@ void loop() {
 ---
 
 📚 References
+
   IJCRT Smart Shoe Paper
   
   ResearchGate Article
@@ -134,6 +138,7 @@ void loop() {
 ---
 
 👩‍💻 Credits
+
   Project by:
   🧑‍🎓 BEJJAM CHARITHA (22BQ1A4710)
   Department of CSE (IoT, Cybersecurity including Blockchain Technology)
